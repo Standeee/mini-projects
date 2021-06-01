@@ -52,6 +52,11 @@ export default {
           icon: 'counter',
           to: { name: 'wordcounter' },
         },
+        {
+          title: 'Mini blog',
+          icon: 'database',
+          to: { name: 'blog' },
+        },
       ],
     }
   },
